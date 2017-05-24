@@ -1,0 +1,11 @@
+-------------------------  fftr4_example.pjt - Debug  -------------------------
+[maincode.c] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -g -fr"C:/Documents and Settings/Aluno/Meus documentos/ProjetoPDS/fftr4_example/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"CHIP_6713" -mv6710 --mem_model:data=far -@"Debug.lkf" "maincode.c"
+
+[Linking...] "C:\CCStudio_v3.1\C6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+>> warning: creating .stack section with default size of 400 (hex) words.
+   Use
+            -stack option to change the default size.
+
+Build Complete,
+  0 Errors, 1 Warnings, 0 Remarks.
